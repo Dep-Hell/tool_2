@@ -1,0 +1,8 @@
+[submodule "3rdParty/lib_A"]
+	path = 3rdParty/lib_A
+	url = https://github.com/dep-hell/lib_A
+	branch = master-yoda
+[submodule "3rdParty/lib_C"]
+	path = 3rdParty/lib_C
+	url = https://github.com/dep-hell/lib_C
+	branch = master-yoda
